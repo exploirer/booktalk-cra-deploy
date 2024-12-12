@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/booktalk-cra-deploy/static/css/main.1abdf67e.css",
+    "main.js": "/booktalk-cra-deploy/static/js/main.fede96dc.js",
+    "static/js/453.c56b2085.chunk.js": "/booktalk-cra-deploy/static/js/453.c56b2085.chunk.js",
+    "static/media/left_side.svg": "/booktalk-cra-deploy/static/media/left_side.a4a7679b05b4b30c499ee264a8fc9032.svg",
+    "static/media/phone.png": "/booktalk-cra-deploy/static/media/phone.8c064b41fc741a796405.png",
+    "static/media/NeutralFaceRegular.ttf": "/booktalk-cra-deploy/static/media/NeutralFaceRegular.1fcf2614fb07b6016b86.ttf",
+    "static/media/books.png": "/booktalk-cra-deploy/static/media/books.06aeb9284b4b42559af3.png",
+    "static/media/footer_logo.svg": "/booktalk-cra-deploy/static/media/footer_logo.27d6b1b831f8745fa92f6e3be5ffacbf.svg",
+    "static/media/telegram.svg": "/booktalk-cra-deploy/static/media/telegram.8a7ace4de7306f1ce4ea3639a6e661af.svg",
+    "index.html": "/booktalk-cra-deploy/index.html",
+    "static/media/lenta.svg": "/booktalk-cra-deploy/static/media/lenta.f56ef574f9eb78138b15.svg",
+    "static/media/border.svg": "/booktalk-cra-deploy/static/media/border.0cefb29e3eaf424b8b6a.svg",
+    "main.1abdf67e.css.map": "/booktalk-cra-deploy/static/css/main.1abdf67e.css.map",
+    "main.fede96dc.js.map": "/booktalk-cra-deploy/static/js/main.fede96dc.js.map",
+    "453.c56b2085.chunk.js.map": "/booktalk-cra-deploy/static/js/453.c56b2085.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1abdf67e.css",
+    "static/js/main.fede96dc.js"
+  ]
+}
